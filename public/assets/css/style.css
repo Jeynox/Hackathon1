@@ -6,7 +6,8 @@
 @import './home_style.css';
 
 :root{
-   --test-color: #6FD7A3; 
+   --test-color: #6FD7A3;
+   --test-color-back: red; 
 }
 
 body {
